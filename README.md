@@ -2,6 +2,10 @@
 
 This is Uzbek translation of the classical NoHello page. The translation is hosted on [https://nometa.uz](https://nometa.uz).
 
+# Update
+
+- [Shoyim Obloqulov](https://github.com/shoyimobloqulov): Domain qayta ishga tushurildi
+
 ## Contributors
 
 - [Brandon High](https://plus.google.com/109027777332815018147): author of the original text
